@@ -13,7 +13,7 @@ public class BlockTitaniumOre extends BlockPackFixer {
         this.setResistance(15.0F);
         this.setHarvestLevel("pickaxe", 2);
         this.setStepSound(soundTypeStone);
-        this.setCreativeTab(CreativeTabs.tabMisc);
+        this.setCreativeTab(CreativeTabs.tabBlock);
         this.setBlockName(TITANIUM_ORE_NAME);
         this.setBlockTextureName(TITANIUM_ORE_NAME);
     }
